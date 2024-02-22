@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397213802442",
+    "project_id": "basicapp-cae5f",
+    "storage_bucket": "basicapp-cae5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397213802442:android:3d0e0c372566bc243bf933",
+        "android_client_info": {
+          "package_name": "com.example.firr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDai9xf16ED7F1qlP9mMzptsSO07dAxUxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
